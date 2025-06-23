@@ -41,8 +41,11 @@ The model is trained on historical loan applicant data provided in a CSV file.
 ---
 ## 🚀 Installation & Usage
 git clone https://github.com/your-username/loan-approval-prediction.git
+
 cd loan-approval-prediction
+
 pip install -r requirements.txt
+
 python loan_approval.py
 
 
